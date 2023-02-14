@@ -1,2 +1,2 @@
-# Pizza Party
- Pizza party assignment 
+<div style="text-align: justify;"><h1 style="text-align: centre !important;">The Pizza Party app</h1>
+This material shows how to create a Pizza Party app using Android Studio and how to run the app in an emulator. Pizza Party helps the user determine how many pizzas are needed to feed a group of hungry party-goers.
